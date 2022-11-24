@@ -6,7 +6,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-━━━❲ 𝘼𝙉𝙂𝙂𝘼-𝘽𝙊𝙏 ━━━
+━━━ NoerBotz ━━━
 
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
  ID : @${sender.split('@')[0]}
@@ -26,7 +26,6 @@ return`
  ${no++} ➳ ${prefix}iklan
  ${no++} ➳ ${prefix}rules
  ${no++} ➳ ${prefix}owner
- ${no++} ➳ ${prefix}script
  ${no++} ➳ ${prefix}infobot
  ${no++} ➳ ${prefix}donasi
  ${no++} ➳ ${prefix}donate
@@ -726,11 +725,11 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 081251549899
+Number: 0896-1872-8196
 A/N: __
 
 *Payment Dana*
-Number: 081251549899
+Number: 0896-1872-1896
 A/N: -_-
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
@@ -742,17 +741,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Dani
- • *Umur:* 16 tahun
- • *Hoby:* Turu/tiktok
- • *Askot:* Palembang
- • *Konten:* Creator
+ • *Nama:* Noer
+ • *Umur:* 18 tahun
+ • *Hoby:* Ngaji, Ibadah
+ • *Askot:* Tangerang
+ • *Konten:* Owner
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 081348106274
- • *Youtube:* DaniMaker
+ • *Whatsapp:* 089618728196
+ • *Instagram:* Nrkhlifah28
  • *Github:* -
  `
 }
